@@ -106,6 +106,25 @@
   </a>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/Farhannr28/Farhannr28/output/github-contribution-grid-breek-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/Farhannr28/Farhannr28/output/github-contribution-grid-breek.svg
+    "
+  />
+  <img
+    alt="github contribution grid breek animation"
+    src="https://raw.githubusercontent.com/Farhannr28/Farhannr28/output/github-contribution-grid-breek.svg"
+  />
+</picture>
+
 <!--
 **Farhannr28/farhannr28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
