@@ -106,6 +106,12 @@
   </a>
 </p>
 
+<br/>
+<br/>
+<br/>
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
